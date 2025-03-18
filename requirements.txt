@@ -1,0 +1,10 @@
+Pillow
+transformers
+torch
+huggingface_hub
+google
+pandas
+streamlit
+python-dotenv
+face_recognition@git+https://github.com/Vishal-Juyal-07/face_recognition
+dlib-bin
